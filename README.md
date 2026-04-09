@@ -7,7 +7,7 @@ Belisarius, adını tarihin en büyük stratejistlerinden biri olan Doğu Roma g
 ## 🧠 Hibrit Zekâ Mimarisi
 
 Belisarius, gücünü iki devasa sütun üzerine inşa eder:
-* **Ollama (Llama 3):** Tamamen yerel (local) olarak çalışan, veri gizliliğini ön planda tutan çevrimdışı strateji motoru.
+* **Ollama (Llama 3):** Tamamen yerel (local) olarak çalışan, veri gizliliğini ön planda tutan çevrimdışı strateji motoru. Not: Son durumda Llama 3 kullanımının yerel değil, Groq üzerinden gerçekleştirilmesi karrlaştırıldı.
 * **Gemini 3 Flash:** Bulut tabanlı, ultra hızlı ve geniş bağlam pencereli (context window) analiz yeteneği.
 
 ## ⚔️ Temel Yetenekler
