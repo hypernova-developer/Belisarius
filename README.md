@@ -15,7 +15,6 @@ Belisarius, gücünü iki devasa sütun üzerine inşa eder:
 * **Stratejik Analiz:** Verilen dökümanları askeri, siyasi veya teknik açılardan değerlendirir.
 * **Döküman Tarama (PDF):** Büyük veri yığınlarını ve PDF dosyalarını saniyeler içinde işleyerek özetler ve çıkarımlar yapar.
 * **Hibrit Karar Mekanizması:** Yerel güvenliği bulutun işlem hızıyla birleştirerek her türlü senaryoya uygun yanıtlar üretir.
-* **SyntaX Entegrasyonu:** SyntaX kütüphanesinin veri işleme ve otomasyon modülleriyle tam uyumlu çalışma.
 
 ## 🕵️ Vizyon
 
