@@ -435,3 +435,125 @@ Belisarius bukan sekadar asisten AI biasa; ini adalah **Chief of Staff** (Kepala
 ---
 **Pengembang:** [hypernova-developer](https://github.com/hypernova-developer)  
 **Status Proyek:** Pengembangan Aktif (Seri hypernova-Edu)
+
+## 🇰🇷 한국어 (Korean Version)
+
+# 🛡️ 벨리사리우스 프로젝트 (Project Belisarius)
+
+**"데이터를 지식으로 전환하고, 지식을 전략으로 승화하라."**
+
+역사상 가장 위대한 전략가 중 한 명이이자 동로마 제국의 전설적인 명장 플라비우스 벨리사리우스의 이름을 딴 '벨리사리우스'는 고부하 전략 분석 및 복잡한 문서 처리에 특화된 고성능 AI 어시스턴트입니다. **hypernova-Edu** 에코시스템의 핵심 모듈로 개발된 이 시스템은 다층적인 데이터 세트를 분석하여 사용자에게 정밀한 의사 결정 지원 보고서를 제공합니다.
+
+## 🧠 하이브리드 인텔리전스 아키텍처 (Hybrid Intelligence Architecture)
+
+벨리사리우스의 전술적 처리 능력은 두 개의 거대한 기반에 의해 구동됩니다:
+* **Ollama (Llama 3):** 철저한 데이터 프라이버시와 보안을 보장하도록 설계된 오프라인 로컬 전략 엔진입니다. *참고: 최신 아키텍처 파이프라인에서는 처리량을 극대화하기 위해 Llama 3를 로컬 하드웨어에서 실행하는 대신, 초고속 컴퓨팅 인프라인 Groq을 통해 배포하도록 설계가 전면 최적화되었습니다.*
+* **Gemini 3 Flash:** 방대한 컨텍스트 윈도우(Context Window)와 강력한 클라우드 연산 능력을 자랑하는 최첨단 분석 백엔드로, 대규모 고문서나 기술 사양서를 밀리초 단위로 정밀 분석합니다.
+
+## ⚔️ 핵심 전술 능력
+
+* **다차원 전략 평가:** 입력된 문서나 전술 데이터를 군사, 지정학, 기술, 사회정치적 다각도 관점에서 시뮬레이션하고 평가합니다.
+* **고충실도 문서 처리 (PDF 인텔리전스):** 방대한 데이터 스트림과 무거운 PDF 파일을 단 몇 초 만에 스캔하여 매우 정밀한 요약(High-Fidelity Summaries)과 즉각 실행 가능한 전략적 인사이트를 추출합니다.
+* **하이브리드 의사 결정 메커니즘:** 온프레미스 환경의 강력한 격리성과 클라우드의 무한한 계산력을 융합하여, 어떠한 위기 시나리오에서도 항상 최적의 대응책을 도출합니다.
+* **지휘관급 정련된 보고:** 알고리즘의 중복성을 철저히 배제하고, 신속한 명령 결정을 가능하게 하는 군더더기 없는 직설적인 요약을 생성합니다.
+
+## 🕵️ 디지털 참모총장의 비전
+
+벨리사리우스는 단순한 AI 챗봇이나 문서 요약 도구가 아닙니다. 이것은 당신의 디지털 **Chief of Staff** (참모총장 /幕僚長)입니다. 그 궁극적인 사명은 현대 정보전(Information Warfare)의 안개를 걷어내고 복잡한 세계가 만들어내는 노이즈를 완벽히 차단하여, 지휘관에게 '가장 순수하고, 가장 치명적이며, 가장 전략적 우위를 지닌 결론'만을 제시하는 것입니다.
+
+---
+**개발자:** [hypernova-developer](https://github.com/hypernova-developer)  
+**프로젝트 상태:** 적극적 개발 중 (hypernova-Edu 시리즈)
+
+---
+
+## 🇵🇹 PORTUGUÊS (Portuguese Version)
+
+# 🛡️ Projeto Belisarius
+
+**"Transforme Dados em Conhecimento, e Conhecimento em Estratégia."**
+
+Belisarius, batizado em honra a Flávio Belisário — um dos maiores estrategistas da história e célebre general do Império Romano do Oriente —, é um assistente de alto desempenho para análise estratégica e processamento de documentos complexos. Desenvolvido como um módulo integral do ecossistema **hypernova-Edu**, este sistema analisa conjuntos de dados densos para fornecer relatórios críticos de suporte à decisão para o operador.
+
+## 🧠 Arquitetura de Inteligência Híbrida
+
+O Belisarius ergue o seu poder lógico sobre dois pilares massivos:
+* **Ollama (Llama 3):** Um motor estratégico offline projetado especificamente para priorizar a estrita privacidade e segurança dos dados. *Nota: No último pivô arquitetónico, foi decidido implantar o Llama 3 através da infraestrutura ultra-rápida da Groq, em vez de executá-lo localmente, maximizando a velocidade de resposta.*
+* **Gemini 3 Flash:** Um backend baseado na nuvem que oferece velocidades de execução fulminantes combinadas com uma janela de contexto massiva (Context Window) para análises avançadas de longo alcance.
+
+## ⚔️ Capacidades Operacionais Chave
+
+* **Análise Estratégica Multidimensional:** Avalia os documentos fornecidos sob prismas táticos, sociopolíticos, militares ou estritamente de engenharia técnica.
+* **Inteligência Documental (Escaneamento de PDF):** Processa volumes massivos de dados e arquivos PDF complexos em questão de segundos para extrair resumos de alta fidelidade (High-Fidelity Summaries) e insights estratégicos diretamente acionáveis.
+* **Mecanismo de Decisão Híbrido:** Funde os paradigmas de segurança locais (on-premises) com a força bruta de processamento da nuvem, gerando a resposta ideal diante de qualquer cenário de crise simulado.
+* **Sintaxe de Relatório de Comando:** Organiza as respostas sob uma estrita disciplina militar, eliminando redundâncias e focando nos vetores de impacto crítico.
+
+## 🕵️ Visão do Chefe de Estado-Maior Digital
+
+O Belisarius não é um mero assistente de IA; ele é o seu **Chief of Staff** (Chefe de Estado-Maior) digital. O seu objetivo supremo é cortar de raiz a névoa da guerra de informação moderna (Information Warfare) e neutralizar o ruído de fundo de um ecossistema complexo, entregando ao comandante apenas o output mais puro, refinado e estrategicamente dominante.
+
+---
+**Desenvolvedor:** [hypernova-developer](https://github.com/hypernova-developer)  
+**Status do Projeto:** Desenvolvimento Ativo (Série hypernova-Edu)
+
+---
+
+## 🇷🇸 SRPSKI (Serbian Version)
+
+# 🛡️ Projekat Belisarijus (Project Belisarius)
+
+**"Pretvorite podatke u znanje, a znanje u strategiju."**
+
+Belisarijus, nazvan po Flaviju Belisariju — jednom od najvećih stratega u istoriji i čuvenom generalu Istočnog rimskog carstva —, jeste napredni asistent visokih performansi za stratešku analizu i procesuiranje složene dokumentacije. Razvijen kao integralni modul **hypernova-Edu** ekosistema, ovaj sistem analizira višeslojne skupove podataka kako bi korisniku obezbedio kritične izveštaje za podršku pri donošenju odluka.
+
+## 🧠 Arhitektura Hibridne Inteligencije
+
+Belisarijus gradi svoju logičku moć na dva masivna stuba:
+* **Ollama (Llama 3):** Ofline strateški motor dizajniran da pruži beskompromisnu privatnost i bezbednost podataka. *Napomena: U najnovijoj arhitektonskoj iteraciji, odlučeno je da se Llama 3 implementira preko ultra-brze Groq infrastrukture umesto lokalnog pokretanja, kako bi se postigao maksimalni protok podataka.*
+* **Gemini 3 Flash:** Cloud-based backend koji isporučuje munjevitu brzinu izvršavanja u kombinaciji sa ogromnim kontekstualnim prozorom (Context Window) za duboku i ekstenzivnu analizu velikih dokumenata.
+
+## ⚔️ Ključne Operativne Sposobnosti
+
+* **Višedimenzionalna Strateška Analiza:** Procenjuje dostavljene dokumente, istorijske izvore ili tehničke specifikacije kroz taktičke, geopolitičke, vojne ili strogo inženjerske aspekte.
+* **Inteligentna Obrada Dokumentacije (PDF Scanning):** Skenira masovne količine podataka i teške PDF fajlove u roku od nekoliko sekundi, izvlačeći precizne rezimee visoke vernosti (High-Fidelity Summaries) i direktno primenjive strateške uvide.
+* **Hibridni Mehanizam Odlučivanja:** Spaja bezbednosne prednosti lokalne (on-premises) izolacije sa sirovom računarskom snagom oblaka, generišući optimalan algoritam delovanja u bilo kom kriznom scenariju.
+* **Vojna Disciplina Izveštavanja:** Strukturira odgovore eliminišući sav suvišan informacioni šum i redundansu, fokusirajući se isključivo na kritične vektore uticaja.
+
+## 🕵️ Vizija Digitalnog Načelnika Generalštaba
+
+Belisarijus nije samo običan AI asistent; on je vaš digitalni **Chief of Staff** (Načelnik Generalštaba). Njegova vrhunska misija je da probije maglu modernog informacionog ratovanja (Information Warfare) i neutrališe haotični šum hiperpovezanog sveta, isporučujući komandantu isključivo najčistiji, provereni i strateški nadmoćan rezultat.
+
+---
+**Programer:** [hypernova-developer](https://github.com/hypernova-developer)  
+**Status projekta:** Aktivni razvoj (hypernova-Edu serija)
+
+---
+
+## 🇦🇿 AZƏRBAYCAN TÜRKÇƏSİ (Azerbaijani Version)
+
+# 🛡️ Belisarius Layihəsi (Project Belisarius)
+
+**"Məlumatı Biliyə, Biliyi Strategiyaya Çevirin."**
+
+Tarixin ən böyük strateqlərindən biri və Şərqi Roma İmperiyasının əfsanəvi sərkərdəsi Flavius Belisariusun adını daşıyan "Belisarius", yüksək performanslı strateji təhlil və mürəkkəb sənədlərin işlənməsi üzrə ixtisaslaşmış süni intellekt köməkçisidir. **hypernova-Edu** ekosisteminin ayrılmaz modulu kimi hazırlanmış bu sistem, istifadəçiyə kritik qərar qəbul etmə hesabatları təqdim etmək üçün mürəkkəb məlumat dəstlərini analiz edir.
+
+## 🧠 Hibrid İntellekt Arxitekturası
+
+Belisarius öz məntiqi gücünü iki nəhəng sütun üzərində qurur:
+* **Ollama (Llama 3):** Məlumatların mütləq məxfiliyini və təhlükəsizliyini təmin etmək üçün nəzərdə tutulmuş oflayn (lokal) strateji mühərrik. *Qeyd: Ən son arxitektura yeniləməsində, maksimum sürət əldə etmək üçün Llama 3-ü lokal avadanlıqda işlətmək əvəzinə, ultra-sürətli Groq infrastrukturu vasitəsilə aktivləşdirmək qərara alınmışdır.*
+* **Gemini 3 Flash:** Böyük mətnlərin dərindən analizi üçün nəhəng kontekst pəncərəsi (Context Window) və bulud əsaslı (cloud-based) arxa plan mühərriki olub, sənədləri millisaniyələr ərzində skan edir.
+
+## ⚔️ Sursat və Əsas Taktiki Bacarıqlar
+
+* **Çoxölçülü Strateji Təhlil:** Daxil edilən sənədləri, tarixi mənbələri və ya texniki göstəriciləri taktiki, geosiyasi, hərbi və ya mühəndislik nöqteyi-nəzərindən qiymətləndirir.
+* **Sənəd İntellekti (Yüksək Dəqiqlikli PDF Skanlama):** Böyük məlumat axınlarını və ağır PDF fayllarını saniyələr ərzində skan edərək yüksək dəqiqlikli xülasələr (High-Fidelity Summaries) və birbaşa tətbiq oluna bilən strateji rəylər çıxarır.
+* **Hibrid Qərar Mexanizmi:** Lokal şəbəkənin təhlükəsizlik üstünlükləri ilə buludun xam hesablama gücünü birləşdirir və istənilən böhran ssenarisində optimal fəaliyyət planı hazırlayır.
+* **Hərbi İntizamlı Hesabat:** Cavabları hərbi dəqiqliklə strukturlaşdırır, məlumat artıqlığını (şumunu) tamamile yox edir və yalnız kritik təsir nöqtələrinə fokuslanır.
+
+## 🕵️ Rəqəmsal Baş Qərargah Rəisinin Baxışı
+
+Belisarius sadəcə bir süni intellekt çat-botu deyil; o, sizin rəqəmsal **Chief of Staff**-ınızdır (Baş Qərargah Rəisi). Onun ali missiyası müasir informasiya müharibəsinin (Information Warfare) dumanını yarmaq, mürəkkəb dünyanın yaratdığı xaos və kənar səsləri tamamilə bloklamaq, komandirə yalnız ən təmiz, ən dəqiq və strateji cəhətdən üstün nəticəni təqdim etməkdir.
+
+---
+**Tərtibatçı:** [hypernova-developer](https://github.com/hypernova-developer)  
+**Layihə Statusu:** Aktiv İnkişaf Mərhələsi (hypernova-Edu Seriyası)
