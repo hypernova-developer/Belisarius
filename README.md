@@ -2,7 +2,7 @@
 
 **"Transform Data into Knowledge, Knowledge into Strategy."**
 
-Belisarius, named after Flavius Belisarius—one of the greatest strategists in history and the renowned Eastern Roman general—is a high-performance strategic analysis and document processing assistant. Developed as an integral module of the **SyntaX** project, this system analyzes complex datasets to deliver critical decision-support reports to the user.
+Belisarius, named after Flavius Belisarius—one of the greatest strategists in history and the renowned Eastern Roman general—is a high-performance strategic analysis and document processing assistant. Developed as an integral module of the **hypernova-Edu** project, this system analyzes complex datasets to deliver critical decision-support reports to the user.
 
 ## 🧠 Hybrid Intelligence Architecture
 
