@@ -2,7 +2,7 @@
 
 **"Veriyi Bilgiye, Bilgiyi Stratejiye Dönüştürün."**
 
-Belisarius, adını tarihin en büyük stratejistlerinden biri olan Doğu Roma generali Flavius Belisarius'tan alan, yüksek performanslı bir stratejik analiz ve döküman işleme asistanıdır. **SyntaX** projesinin bir parçası olarak geliştirilen bu sistem, karmaşık veri setlerini analiz ederek kullanıcıya kritik karar destek raporları sunar.
+Belisarius, adını tarihin en büyük stratejistlerinden biri olan Doğu Roma generali Flavius Belisarius'tan alan, yüksek performanslı bir stratejik analiz ve döküman işleme asistanıdır. **hypernova-Edu** projesinin bir parçası olarak geliştirilen bu sistem, karmaşık veri setlerini analiz ederek kullanıcıya kritik karar destek raporları sunar.
 
 ## 🧠 Hibrit Zekâ Mimarisi
 
