@@ -22,5 +22,5 @@ Belisarius, gücünü iki devasa sütun üzerine inşa eder:
 Belisarius, sadece bir yapay zekâ asistanı değil; bir dijital kurmaydır. Hedefi, karmaşık dünyadaki bilgi kirliliğini temizleyerek kullanıcıya en saf ve en stratejik sonucu sunmaktır.
 
 ---
-**Geliştirici:** [hypernova-developer](https://hypernova-developer.github.io/SyntaX)
+**Geliştirici:** [hypernova-developer](https://github.com/hypernova-developer)
 **Proje Durumu:** Aktif Geliştirme (hypernova-Edu Serisi)
