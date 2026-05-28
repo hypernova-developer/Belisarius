@@ -21,5 +21,11 @@ Belisarius builds its power upon two massive pillars:
 Belisarius is not merely an AI assistant; it is a digital Chief of Staff. Its ultimate objective is to cut through the information warfare and noise of a complex world, provisioning the user with nothing but the purest and most strategic outcomes.
 
 ---
+
+## Activity
+- This project is currently under active development. It will ready to be published in a few weeks. 
+
+---
+
 **Developer:** [hypernova-developer](https://github.com/hypernova-developer)  
 **Project Status:** Active Development (hypernova-Edu Series)
