@@ -29,3 +29,4 @@ Belisarius is not merely an AI assistant; it is a digital Chief of Staff. Its ul
 
 **Developer:** [hypernova-developer](https://github.com/hypernova-developer)  
 **Project Status:** Active Development (hypernova-Edu Series)
+**License:** GNU General Public License v3.0 (GPLv3)
